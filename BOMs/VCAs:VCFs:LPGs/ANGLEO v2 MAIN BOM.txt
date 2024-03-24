@@ -1,0 +1,24 @@
+
+
+Qty Value    Device                 Package  Parts 
+
+2            RESISTOR0805-RES       0805     R1, R2 
+4   10R      RESISTOR0805-RES       0805     R23, R55, R84, R85   
+8   470R     RESISTOR0805-RES       0805     R4, R5, R9, R10, R36, R37, R41, R42     
+4   1.8K     RESISTOR0805-RES       0805     R7, R12, R39, R44                                                                                                                                                                                                                                                                                     
+4   1K       RESISTOR0805-RES       0805     R19, R30, R51, R62                                                                                                                                                                                                                                                                                    
+6   2.2K     RESISTOR0805-RES       0805     R17, R20, R32, R49, R52, R64                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+4   4.7K     RESISTOR0805-RES       0805     R22, R54, R31, R63                                                                                                                                                                                                                                                                                            
+4   10K      RESISTOR0805-RES       0805     R28, R33, R60, R65      
+14  100K     RESISTOR0805-RES       0805     R3, R6, R8, R11, R18, R25, R29, R35, R38, R40, R43, R50, R59, R61                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+
+4   .001u    C5/2.5                 C5B2.5   C5, C6, C9, C10                                                                                                                                                                                                                                                                                      
+2   .001u    CAP0805                0805     C8, C12                                                                                                                                                                                                                                                                                              
+12  .1u      CAP0805                0805     C3, C4, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22                                                                                                                                                                                                                                             
+4   10u      CPOL-USE2.5-6          E2,5-6   C1, C2, C7, C11       
+
+6   3906     TRANSISTOR_PNPPMBT3906 SOT23-3  Q1, Q2, Q3, Q4, Q5, Q6                                                      
+3   LM13600M LM13600M               SO16     IC1, IC3, IC7                                                               
+3   TL082D   TL082D                 SO08     IC2, IC4, IC6                                                              
+2            DIODESOD123            SOD-123  D1, D2                                                                                                                                                                                                                                                                                                   
+4            LED3MM                 LED_3MM  D3, D4, D5, D6                                       
