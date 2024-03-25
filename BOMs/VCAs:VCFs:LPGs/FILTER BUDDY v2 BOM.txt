@@ -1,0 +1,20 @@
+Qty Value              Device                   Package                  Parts                                                                                    
+
+                                                                                                                                                                                                         
+
+2                      RESISTOR0805-RES         0805@1                   R1, R2                                                                                                                          4   1K                 RESISTOR0805-RES         0805@1                   R6, R7, R8, R13           
+4   10K                RESISTOR0805-RES         0805@1                   R9, R10, R11, R12                                                                                                               
+7   100K               RESISTOR0805-RES         0805@1                   R3, R4, R5, R15, R16, R17, R18                                                                                                  
+1   1M                 RESISTOR0805-RES         0805@1                   R14                                                                                                                             
+
+2   47p                CAP0805                  0805                     C8, C10                                                                                                                        
+4   .1u                CAP0805                  0805                     C3, C4, C5, C6            
+3   1u                 CAP0805                  0805                     C7, C9, C11                                                                                                                    
+2                      CAP1206                  1206                     C1, C2                                                                                                                         
+
+2                      LED1206                  LED-1206                 D1, D2                    
+2   TL082D             TL082D                   SO08                     IC1, IC2                 
+
+1   A500K              POT_NO_CLIP              ALPS_POT_NO_CLIPS        RV1                                                                                                                                                                   
+1   TL2230_PUSH_SWITCH TL2230_PUSH_SWITCH       TL2230                   U$2                                                                         
+5   WQP-PJ301M-12_JACK WQP-PJ301M-12_JACK       WQP-PJ301M-12_JACK       FROM_FILT, IN, TO_FILT, FILT_OUT, OUT                                                                                                                            
