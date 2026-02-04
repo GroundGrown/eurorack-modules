@@ -1,0 +1,33 @@
+Qty Value                    Device                          Package            Parts                                   Description                                                                                                     
+
+
+2   22R                      R-EU_0207/10                    0207/10            R8, R9
+1   470R                     R-EU_0207/10                    0207/10            R19
+2   1K                       R-EU_0207/10                    0207/10            R7, R26
+2   4.7K                     R-EU_0207/10                    0207/10            R10, R24
+6   10K                      R-EU_0207/10                    0207/10            R12, R17, R21, R22, R23, R27
+1   33K                      R-EU_0207/10                    0207/10            R16
+10  100K                     R-EU_0207/10                    0207/10            R2, R4, R5, R6, R11, R13, R15, R18, R20, R25
+2   470K                     R-EU_0207/10                    0207/10            R1, R3
+
+1   30K                      TRIM_US-CA6V                    CA6V               R14
+
+2   47p                      C-US025-025X050                 C025-025X050       C12, C13
+1   220p                     C-US050-025X075                 C050-025X075       C10
+1   2.2n                     C-US025-025X050                 C025-025X050       C1
+1   4.7n                     C-US050-025X075                 C050-025X075       C11
+1   .01u                     C-US025-025X050                 C025-025X050       C2
+4   .1u                      C-US025-025X050                 C025-025X050       C6, C7, C8, C9
+1   1u                       C-US050-045X075                 C050-045X075       C5
+2   10u                      CPOL-USE2.5-6                   E2,5-6             C3, C4
+
+1   1N4148DO35-7             1N4148DO35-7                    DO35-7             D1
+1   Zener 5.1V               Zener 5.1V                      DO-41              D2
+1   TL082P                   TL082P                          DIL08              IC1
+1   TL084P                   TL084P                          DIL14              IC2
+
+2   VTL5C3                   VTL5C9                          VTL5C              LDR1, LDR2
+2                            LED3MM                          LED_3MM            D3, D4
+
+6   WQP-PJ301M-12_JACK       WQP-PJ301M-12_JACK              WQP-PJ301M-12_JACK JK1, JK2, JK3, JK4, JK5, JK6                                                                                                                                                                                                                                                                                                                                                                                                    
+2   B100K                    POTENTIOMETER-PTH-9MM-1/20W-20% POT-PTH-ALPS       VR1, VR2
